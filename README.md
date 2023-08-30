@@ -69,7 +69,7 @@
     </ul>
   </section>
 
-  <!-- Contacto -->
+  <!-- Contacto 
   <section class="contacto">
     <h2>Contacto</h2>
     <ul>
@@ -77,7 +77,7 @@
         <a href="https://www.linkedin.com/in/arles-romero-rodr%C3%ADguez-a63959171/">LinkedIn</a>
       </li>
     </ul>
-  </section>
+  </section> -->
 
 </body>
 </html>
