@@ -76,9 +76,6 @@
       <li>
         <a href="https://www.linkedin.com/in/arles-romero-rodr%C3%ADguez-a63959171/">LinkedIn</a>
       </li>
-      <li>
-        <a href="arles.romero.rod@gmail.com">Email</a>
-      </li>
     </ul>
   </section>
 
