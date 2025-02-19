@@ -14,7 +14,7 @@
   <!-- Cabecera -->
   <header>
     <h1>Arles Romero</h1>
-    <p>Ingeniero en Telecomunicaciones y Electrónica | Desarrollador Full Stack en Python y Django</p>
+    <p>Ingeniero en Telecomunicaciones y Electrónica|Administrador de red y sistemas|Desarrollador Web</p>
   </header>
 
   <!-- Resumen -->
