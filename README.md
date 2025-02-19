@@ -54,10 +54,6 @@
     <h2>Proyectos Relevantes</h2>
     <ul>
       <li>
-        <strong>Proyecto de Conversión de Documentos:</strong>
-        <p>Desarrollo de una herramienta para la conversión de documentos utilizando Python, enfocada en la automatización de procesos empresariales.</p>
-      </li>
-      <li>
         <strong>Django E-commerce:</strong>
         <p>Implementación de un sistema de comercio electrónico con funcionalidad de carrito de compras, gestión de órdenes y pagos.</p>
       </li>
