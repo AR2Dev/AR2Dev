@@ -38,15 +38,7 @@
         </ul>
       </li>
       <li>
-        <strong>Frameworks:</strong>
-        <ul>
-          <li>Django</li>
-          <li>Bootstrap</li>
-          <li>React</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Otras Habilidades:</strong>
+        <strong>Habilidades:</strong>
         <ul>
           <li>Desarrollo Backend: Django, APIs con Django REST Framework</li>
           <li>Bases de Datos: MySQL</li>
