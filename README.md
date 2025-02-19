@@ -20,8 +20,7 @@
   <!-- Resumen -->
   <section class="resumen">
     <h2>Resumen</h2>
-    <p>Soy un apasionado de la tecnología y la programación, con un enfoque en el desarrollo web y la resolución de problemas. Con una sólida formación en telecomunicaciones y electrónica, he expandido mi experiencia hacia el desarrollo de aplicaciones utilizando tecnologías modernas.</p>
-    <p>Actualmente, me especializo en el desarrollo con Python y Django, tanto en el backend como en la creación de APIs RESTful. En el frontend, tengo experiencia en HTML, CSS, JavaScript, y manejo de librerías como Bootstrap y jQuery. Me apasiona resolver problemas complejos y siempre busco la solución más eficiente y óptima.</p>
+    <p>Graduado de Ingeniero en Telecomunicaciones y Electrónica en la Universidad Oriente en Cuba. Experiencia en el campo de las Tecnologías de la Información (TI), administración de servidores y redes basadas en Linux en centros de datos y organizaciones. Conocimientos de programación en diversos sistemas y en desarrollo web como Full Stack Developer. Enfocado en la resolución de problemas y atención al detalle. Capacitado para realizar múltiples tareas, como la instalación y reparación de sistemas informáticos con total precisión y eficiencia. Calificado para realizar mantenimiento a nivel de Software y Hardware.</p>
   </section>
 
 <!-- Habilidades -->
